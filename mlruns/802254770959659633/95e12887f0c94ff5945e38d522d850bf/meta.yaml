@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/802254770959659633/95e12887f0c94ff5945e38d522d850bf/artifacts
+end_time: 1753969170229
+entry_point_name: ''
+experiment_id: '802254770959659633'
+lifecycle_stage: active
+run_id: 95e12887f0c94ff5945e38d522d850bf
+run_name: gregarious-fox-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753969167564
+status: 3
+tags: []
+user_id: ramneeksharma

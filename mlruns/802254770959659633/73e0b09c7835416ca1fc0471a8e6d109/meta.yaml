@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/802254770959659633/73e0b09c7835416ca1fc0471a8e6d109/artifacts
+end_time: 1753966747146
+entry_point_name: ''
+experiment_id: '802254770959659633'
+lifecycle_stage: active
+run_id: 73e0b09c7835416ca1fc0471a8e6d109
+run_name: upset-dove-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753966744095
+status: 3
+tags: []
+user_id: ramneeksharma

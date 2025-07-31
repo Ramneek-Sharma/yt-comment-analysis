@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/802254770959659633/models/m-5e22a39591cc4d93be4d46efdbe78f1b/artifacts
+creation_timestamp: 1753966875675
+experiment_id: '802254770959659633'
+last_updated_timestamp: 1753966877587
+model_id: m-5e22a39591cc4d93be4d46efdbe78f1b
+model_type: ''
+name: sentiment_pipeline
+source_run_id: a69beed71b614e35931bf0ded7343149
+status: 2
+status_message: null

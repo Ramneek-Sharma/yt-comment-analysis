@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/802254770959659633/cb0a16f599014362803e48bc5baa419c/artifacts
+end_time: 1753967383801
+entry_point_name: ''
+experiment_id: '802254770959659633'
+lifecycle_stage: active
+run_id: cb0a16f599014362803e48bc5baa419c
+run_name: resilient-bear-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753967377076
+status: 3
+tags: []
+user_id: ramneeksharma

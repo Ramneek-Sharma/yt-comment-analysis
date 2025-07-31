@@ -1,0 +1,32 @@
+artifact_path: mlflow-artifacts:/802254770959659633/models/m-7b7c97b651584228ade8a6b24df782aa/artifacts
+flavors:
+  lightgbm:
+    code: null
+    data: model.pkl
+    lgb_version: 4.6.0
+    model_class: lightgbm.sklearn.LGBMClassifier
+  python_function:
+    data: model.pkl
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.12.5
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-7b7c97b651584228ade8a6b24df782aa
+model_size_bytes: 4120927
+model_uuid: m-7b7c97b651584228ade8a6b24df782aa
+prompts: null
+run_id: 2ecc860097774aa79ff1c43cf052ce96
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "string", "name": "clean_comment", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-31 13:25:09.375842'

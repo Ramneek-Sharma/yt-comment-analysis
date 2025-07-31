@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/802254770959659633/71aa5d3a0d50419896d5f094485e6b64/artifacts
+end_time: 1753965212205
+entry_point_name: ''
+experiment_id: '802254770959659633'
+lifecycle_stage: active
+run_id: 71aa5d3a0d50419896d5f094485e6b64
+run_name: incongruous-lamb-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753965204828
+status: 3
+tags: []
+user_id: ramneeksharma

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/802254770959659633/18db9d1745614a1a882bc1362080b7af/artifacts
+end_time: 1753964637472
+entry_point_name: ''
+experiment_id: '802254770959659633'
+lifecycle_stage: active
+run_id: 18db9d1745614a1a882bc1362080b7af
+run_name: lyrical-shrike-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753964629558
+status: 3
+tags: []
+user_id: ramneeksharma

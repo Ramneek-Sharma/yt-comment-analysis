@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/802254770959659633/f5502b46e3a84df4b53c2c8c72e8cdcf/artifacts
+end_time: 1753969214026
+entry_point_name: ''
+experiment_id: '802254770959659633'
+lifecycle_stage: active
+run_id: f5502b46e3a84df4b53c2c8c72e8cdcf
+run_name: selective-trout-266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753969211256
+status: 3
+tags: []
+user_id: ramneeksharma

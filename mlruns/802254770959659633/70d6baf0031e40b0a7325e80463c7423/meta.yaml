@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/802254770959659633/70d6baf0031e40b0a7325e80463c7423/artifacts
+end_time: 1753968733122
+entry_point_name: ''
+experiment_id: '802254770959659633'
+lifecycle_stage: active
+run_id: 70d6baf0031e40b0a7325e80463c7423
+run_name: lyrical-jay-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753968724455
+status: 3
+tags: []
+user_id: ramneeksharma

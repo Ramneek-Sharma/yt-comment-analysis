@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/802254770959659633/2ecc860097774aa79ff1c43cf052ce96/artifacts
+end_time: 1753968311993
+entry_point_name: ''
+experiment_id: '802254770959659633'
+lifecycle_stage: active
+run_id: 2ecc860097774aa79ff1c43cf052ce96
+run_name: painted-skink-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753968308978
+status: 4
+tags: []
+user_id: ramneeksharma

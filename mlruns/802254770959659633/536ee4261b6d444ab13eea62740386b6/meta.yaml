@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/802254770959659633/536ee4261b6d444ab13eea62740386b6/artifacts
+end_time: 1753967528804
+entry_point_name: ''
+experiment_id: '802254770959659633'
+lifecycle_stage: active
+run_id: 536ee4261b6d444ab13eea62740386b6
+run_name: glamorous-toad-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753967521846
+status: 3
+tags: []
+user_id: ramneeksharma

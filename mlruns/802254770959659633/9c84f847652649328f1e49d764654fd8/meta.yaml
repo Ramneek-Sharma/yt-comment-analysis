@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/802254770959659633/9c84f847652649328f1e49d764654fd8/artifacts
+end_time: 1753965407747
+entry_point_name: ''
+experiment_id: '802254770959659633'
+lifecycle_stage: active
+run_id: 9c84f847652649328f1e49d764654fd8
+run_name: skillful-smelt-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753965400541
+status: 3
+tags: []
+user_id: ramneeksharma

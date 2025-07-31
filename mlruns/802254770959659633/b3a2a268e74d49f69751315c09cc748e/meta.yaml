@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/802254770959659633/b3a2a268e74d49f69751315c09cc748e/artifacts
+end_time: 1753968492811
+entry_point_name: ''
+experiment_id: '802254770959659633'
+lifecycle_stage: active
+run_id: b3a2a268e74d49f69751315c09cc748e
+run_name: nervous-seal-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753968483614
+status: 3
+tags: []
+user_id: ramneeksharma
