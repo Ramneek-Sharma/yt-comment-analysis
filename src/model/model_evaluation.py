@@ -12,10 +12,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import json
 from mlflow.models import infer_signature
-import dagshub
-from dotenv import load_dotenv
-load_dotenv()  # This will load the .env variables
-
 
 # logging configuration
 logger = logging.getLogger('model_evaluation')
@@ -131,13 +127,10 @@ def save_model_info(run_id: str, model_path: str, file_path: str) -> None:
 
 
 def main():
-   
-    dagshub.init(repo_owner='sramneek2712',
-                 repo_name='yt-comment-analysis',
-                 mlflow=True)
-
-    # Now MLflow will log to DagsHub
+    mlflow.set_tracking_uri("http://127.0.0.1:5000")  # or localhost
     mlflow.set_experiment('dvc-pipeline-runs')
+
+    
     with mlflow.start_run() as run:
         try:
             # Load parameters from YAML file
