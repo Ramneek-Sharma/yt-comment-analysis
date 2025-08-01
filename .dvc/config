@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = /Users/ramneeksharma/dvc-temp
+    url = s3://bucket4031
